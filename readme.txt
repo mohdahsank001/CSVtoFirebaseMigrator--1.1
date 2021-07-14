@@ -18,7 +18,6 @@ b. serviceAccountKey.json -> The serviceAccountKey downloaded from the firebase 
 NOTE : a. The naming for your service Accounts key must be exaclty as above which is "serviceAccountKey.json" and must not 
 be altered .
 b. To have auto generated key, change .doc(docKey).set(data[docKey]) to => doc().set(data[docKey]) in the above code within index.js .
-
 6.Now setup a Node.js project inside your root folder. I have already setup for mine.
 7.Open root folder and type in "npm init"
 8. Follow through the interface and give approprite inputs. 
