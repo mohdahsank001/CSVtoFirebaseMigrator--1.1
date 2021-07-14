@@ -15,8 +15,9 @@ Instruction to successfully migrate from CSV to Firestore Firebase database :
 5. Now within the project folder, there should be 2 files that are present which are : 
 a. data. json -> The csv file that was converted to JSON. 
 b. serviceAccountKey.json -> The serviceAccountKey downloaded from the firebase console earlier in Step 3. 
-NOTE : The naming for your service Accounts key must be exaclty as above which is "serviceAccountKey.json" and must not 
-be altered 
+NOTE : a. The naming for your service Accounts key must be exaclty as above which is "serviceAccountKey.json" and must not 
+be altered .
+b. To have auto generated key, change .doc(docKey).set(data[docKey]) to => doc().set(data[docKey]) in the above code within index.js .
 
 6.Now setup a Node.js project inside your root folder. I have already setup for mine.
 7.Open root folder and type in "npm init"
