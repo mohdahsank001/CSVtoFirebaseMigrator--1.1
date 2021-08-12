@@ -1,0 +1,149 @@
+[
+  {
+    "isScraped": true,
+    "industryExperiences": [],
+    "salesAchivements": [],
+    "saleSkills": [],
+    "country": "Australia",
+    "lastName": "Cole",
+    "visible": false,
+    "city": "Sydney",
+    "yearsSalesExperience": {
+      "float": null,
+      "integer": "18",
+      "string": null,
+      "provided": "integer"
+    },
+    "signUpCompleted": true,
+    "profileCreatedDate": "2021-07-21 07:27:43 UTC",
+    "title": "",
+    "userID": "iH86Pub6FHgbwRytvJnM5STTOmpb",
+    "accountStatus": "claimed",
+    "selectedCountry": {
+      "string": null,
+      "entity": {
+        "vale": "AU",
+        "label": "Australia",
+        "value": null,
+        "regions": [],
+        "countryShortCode": null,
+        "countryName": null
+      },
+      "provided": "entity"
+    },
+    "firstName": ["Melanie"],
+    "phone": " ",
+    "profileDesc": {
+      "string": "",
+      "entity": null,
+      "provided": "string"
+    },
+    "countryCode": "AU",
+    "profileImgUrl": null,
+    "name": "Melanie cole",
+    "userType": "Hiring Manager",
+    "hourlyRate": {
+      "integer": "5",
+      "string": null,
+      "provided": "integer"
+    },
+    "seoFriendlyUrl": "mel-k-2",
+    "email": "melanie@carnextdoor.com.au",
+    "priority": "1",
+    "signUpReason": null,
+    "welcomeEmailSent": true,
+    "timezone": {
+      "label": "Australia",
+      "value": "Australia"
+    },
+    "companyName": "Car next door.",
+    "selectedWorkPreference": [
+      {
+        "string": null,
+        "entity": {
+          "label": "Full Time",
+          "value": "fullTime"
+        },
+        "provided": "entity"
+      },
+      {
+        "string": null,
+        "entity": {
+          "label": "Freelance",
+          "value": "freelance"
+        },
+        "provided": "entity"
+      },
+      {
+        "string": null,
+        "entity": {
+          "label": "Consulting",
+          "value": "consultant"
+        },
+        "provided": "entity"
+      },
+      {
+        "string": null,
+        "entity": {
+          "label": "Flexible",
+          "value": "flexible"
+        },
+        "provided": "entity"
+      }
+    ],
+    "rating": "0",
+    "signUpFromApplyWithCV": true,
+    "resume": {
+      "fileName": "",
+      "url": ""
+    },
+    "sendApplyWithCVEmail": {
+      "sendDate": {
+        "date_time": "2021-07-21 07:28:05 UTC",
+        "entity": null,
+        "provided": "date_time"
+      },
+      "hasSent": true
+    },
+    "verified": false,
+    "profilePublished": false,
+    "desiredAnnualSalary": [
+      {
+        "integer": "10000",
+        "string": null,
+        "provided": "integer"
+      }
+    ],
+    "selectedWorkSituation": {
+      "string": null,
+      "entity": {
+        "label": "HR",
+        "value": "HR"
+      },
+      "provided": "entity"
+    },
+    "messages": "0",
+    "notifications": "0",
+    "hubspotVID": null,
+    "calendarLinks": [],
+    "audioBioUrl": null,
+    "recordedAudioPath": null,
+    "profileCompleted": null,
+    "salesperson": null,
+    "student": null,
+    "university": null,
+    "signUpMethod": null,
+    "degree": null,
+    "balance": null,
+    "prevCompanies": [],
+    "salesSkills": null,
+    "url": null,
+    "homepageFeatured": null,
+    "profileBadges": null,
+    "psychometricTestResults": null,
+    "payout": null,
+    "psychometricTestRequestedBy": [],
+    "currentClient": null,
+    "linkedInPackage": null
+  }
+]
