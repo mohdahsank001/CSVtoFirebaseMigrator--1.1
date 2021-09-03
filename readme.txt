@@ -1,13 +1,13 @@
 ------------------------------
  CSVtoFireStore-Migrator 2.0 
 ------------------------------
-                                ------------------------------------------------------------------------------------------
-                                .This-project-helps-you-to-migrate-CSV-or-JSON-to-Firebase-firestore-database-collections.
-                                ------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+.This-project-helps-you-to-migrate-CSV-or-JSON-to-Firebase-firestore-database-collections.
+------------------------------------------------------------------------------------------
 
 
 Instruction to successfully migrate from CSV to Firestore Firebase database :  
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 1. Convert CSV to JSON using any appropriate tool(csvjson.com/csv2json would be a good choice!) . 
 2. Generate Private Key From the Firestore database which can be found under settings -> "Users and permissions".
