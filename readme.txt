@@ -33,7 +33,7 @@ CHANGE LOG for version 2.0  :  (TESTING PHASE)
 _________________________________________________
 
 1. Multiple entries from two seperate input JSON files for Jobs and users [into two seperate Collections in the firebase firestore] . (namely testJob.JSON and testUser.JSON such that ith user in the testUser.JSON file is mapped with the ith Job in testJob.JSON ). 
-2. Mapping with the data in 'Users' and 'PublicJobs' collections with fields in the firebase firestore (sellcrowd.com). 
+2. Mapping of the data in 'Users' and 'PublicJobs' collections with fields in firebase firestore  of Sellcrowd website(sellcrowd.com). 
 
 
 
