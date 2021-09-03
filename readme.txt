@@ -29,3 +29,11 @@ b. To have auto generated key, change .doc(docKey).set(data[docKey]) to => doc()
 14. Migration Done !  :) 
 
 
+CHANGE LOG for version 2.0  :  (TESTING PHASE)
+_________________________________________________
+
+1. Multiple entries from two seperate input JSON files for Jobs and users [into two seperate Collections in the firebase fireastore] . (namely TestJob.JSON and TestUser.JSON such that ith user in the  TestUser.JSON file is mapped with the ith Job in TestJob.JSON ). 
+
+
+
+
