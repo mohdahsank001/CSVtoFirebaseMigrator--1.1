@@ -1,8 +1,8 @@
-CSVtoFireStore Migrator 2.0 
-
-
-This project is for migrating csv to firebase database. 
-----------------------------------------------------------------------------
+CSVtoFireStore-Migrator 2.0 
+-----------------------------
+--------------------------------------------------------------------------------
+.This project helps you to migrate csv or JSON to firebase database collections.
+--------------------------------------------------------------------------------
 
 
 Instruction to successfully migrate from CSV to Firestore Firebase database :  
