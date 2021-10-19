@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------
 .This-project-helps-you-to-migrate-CSV-or-JSON-to-Firebase-firestore-database-collections.
 ------------------------------------------------------------------------------------------
-
+Created for SellCrowd (www.sellcrowd.com) under the Creative Commons license by Mohammed Ahsan Kollathodi and Linh Nhat.  
 
 Instruction to successfully migrate from CSV to Firestore Firebase database :  
 ------------------------------------------------------------------------------------------------------------------------------------
